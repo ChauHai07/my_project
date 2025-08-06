@@ -1,4 +1,4 @@
-# my_project
+# StockData project
 To scrap S&P500 as ticker file into ticker folder
 To scrap "YFi" base on the ticker file into history folder
 To reformat the "YFi" file to new/useable format into history_reformat folder 
